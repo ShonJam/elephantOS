@@ -1,0 +1,10 @@
+1 bochsrc.disk.book用于虚拟的CentOs中的bochs,也就是书中所说的配置。
+
+2 bochsrc.disk用于安装到宿主机上的bochs
+    
+根据您的喜好选择合适的配置文件，部分配置项要按照您本地机器的实际情况修改。
+
+hd60M.img是内核所在的镜像，hd80M.img是划分了磁盘分区表的镜像，文件系统在其上建立。
+
+执行方式，比如
+bochs -f bochsrc.disk

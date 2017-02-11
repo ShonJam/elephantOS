@@ -1,0 +1,9 @@
+.*
+!.gitignore
+*~
+
+
+hd60M.img
+hd80M.img
+bochs.out
+*.bin

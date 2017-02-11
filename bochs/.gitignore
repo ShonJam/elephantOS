@@ -1,0 +1,8 @@
+.*
+!.gitignore
+*~
+
+
+hd60M.img
+hd80M.img
+bochs-2.6.8
